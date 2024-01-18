@@ -1,0 +1,150 @@
+    [       
+        {
+            "id":21,
+            "name": "Project 2-1",
+            "category": "Residential design",
+            "bedrooms" : 2,
+            "imageUrl": "images/2br/2br.jpg",
+            "year": 2023,
+            "images" : [
+                "images/2br/2br.jpg"
+            ]
+        },
+   
+        {   "id":31,
+            "name": "Project 3-1",
+            "category": "Residential design",
+            "bedrooms" : 3,
+            "imageUrl": "images/3br/3br1.jpg",
+            "year": 2023,
+            "images" : [
+                    "images/3br/3br1.jpg",
+                    "images/3br/3br2.jpg"
+                    ]
+        },
+        
+        {   "id":32,
+            "name": "Project 3-2",
+            "category": "Residential design",
+            "bedrooms" : 3,
+            "imageUrl": "images/3br/3br3.jpg",
+            "year": 2023,
+            "images" : [
+                 "images/3br/3br3.jpg"
+            
+                ]
+
+        },
+        {   "id":33,
+            "name": "Project 3-3",
+            "category": "Residential design",
+            "bedrooms" : 3,
+            "imageUrl": "images/3br/3br4.jpg",
+            "year": 2023,
+            "images" : [
+                 "images/3br/3br4.jpg"
+                ]
+        },
+
+        {   "id":34,
+            "name": "Project 3-4",
+            "category": "Residential design",
+            "bedrooms" : 3,
+            "imageUrl": "images/3br/3br5.jpg",
+            "year": 2023,
+            "images" : [
+                "images/3br/3br5.jpg",
+                "images/3br/3br6.jpg"
+                ]
+
+        },
+        {
+            "id":41,
+            "name": "Project 4-1",
+            "category": "Residential design",
+            "bedrooms" : 4,
+            "imageUrl": "images/4br/4br1.png",
+            "year": 2023,
+            "images" : [
+                 "images/4br/4br1.png",
+                 "images/4br/4br2.png",
+                 "images/4br/4br15.png"
+                ]
+
+        },
+        
+        {
+            "id":42,
+            "name": "Project 4-2",
+            "category": "Residential design",
+            "bedrooms" : 4,
+            "imageUrl": "images/4br/4br3.png",
+            "year": 2023,
+            "images" : [
+                 "images/4br/4br3.png",
+                 "images/4br/4br4.png"
+                ]
+
+        },
+       
+        {
+            "id":43,
+            "name": "Project 4-3",
+            "category": "Residential design",
+            "bedrooms" : 4,
+            "imageUrl": "images/4br/4br5.jpg",
+            "year": 2023,
+            "images" : [
+                 "images/4br/4br5.jpg"
+         
+         
+         
+         
+                ]
+        },
+        
+        {
+            "id":44,
+            "name": "Project 4-4",
+            "category": "Residential design",
+            "bedrooms" : 4,
+            "imageUrl": "images/4br/4br6.jpg",
+            "year": 2023,
+            "images" : [
+                 "images/4br/4br6.jpg",
+                 "images/4br/4br7.jpg",
+                 "images/4br/4br8.jpg"
+            ]
+
+        },
+       
+        {
+            "id":45,
+            "name": "Project 4-5",
+            "category": "Residential design",
+            "bedrooms" : 4,
+            "imageUrl": "images/4br/4br11.png",
+            "year": 2023,
+            "images" : [
+                 "images/4br/4br9.png",
+                 "images/4br/4br10.png",
+                 "images/4br/4br11.png"
+            ]
+
+        },
+        
+        {
+            "id":46,
+            "name": "Project 4-6",
+            "category": "Residential design",
+            "bedrooms" : 4,
+            "imageUrl": "images/4br/4br12.jpg",
+            "year": 2023,
+            "images" : [
+                 "images/4br/4br12.jpg",
+                 "images/4br/4br13.jpg",
+                 "images/4br/4br14.jpg"
+            ]
+        }
+
+]
